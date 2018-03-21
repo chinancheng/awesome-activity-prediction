@@ -8,8 +8,13 @@ A paper list of Activity Prediction and related area resources, inspired by [awe
  - [Human Trajectory Prediction](#human-trajectory-prediction)
 
 ## Action Recognition In Early Stage
-* **Action Prediction from Videos via Memorizing Hard-to-Predict Samples** [[Paper]](http://www1.ece.neu.edu/~yukong/papers/AAAI2018.pdf)
+* **Action Prediction from Videos via Memorizing Hard-to-Predict Samples** [[Paper]](http://www1.ece.neu.edu/~yukong/papers/AAAI2018.pdf)  
   * Y. Kong, S. Gao, B. Sun, Y. Fu, AAAI 2018.
+* **On Encoding Temporal Evolution for Real-time Action Prediction** [[Paper]](https://arxiv.org/ftp/arxiv/papers/1709/1709.07894.pdf)  
+  * F. Rezazadegan, S.Shirazi, M. Baktashmotlagh, L. S. Davis, arXiv 2018.
+* **Predictive Learning: Using Future Representation Learning Variantial Autoencoder for Human Action Prediction** 
+[[Paper]](https://arxiv.org/pdf/1711.09265v2.pdf)  
+  * Y. Runsheng, S. Zhenyu, M. Qiongxiong, Q. Laiyun, arXiv 2017.
 * **Encouraging LSTMs to Anticipate Actions Very Early** [[Paper]](https://arxiv.org/pdf/1703.07023.pdf)
   * M. S. Aliakbarian,  F. Saleh, M. Salzmann, B. Fernando, L. Petersson, L. Andersson, ICCV 2017.
 * **Online Real-time Multiple Spatiotemporal Action Localisation and Prediction** [[Paper]](https://arxiv.org/pdf/1611.08563.pdf) [[Code]](https://github.com/gurkirt/realtime-action-detection)
