@@ -1,13 +1,13 @@
 # Awesome Activity Prediction: [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-A paper list of Activity Prediction and related area resources, inspired by [awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision) and [awesome-action-recognition](https://github.com/jinwchoi/awesome-action-recognition/blob/master/README.md).
+A paper list of Activity Prediction and related area resources, inspired by [awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision) and [awesome-action-recognition](https://github.com/jinwchoi/awesome-action-recognition/blob/master/README.md).  
 
 ## Contents
- - [Action Recognition In Early Stage](#action-recognition-in-early-stage)
+ - [Action Prediction In Early Stage](#action-prediction-in-early-stage)
  - [Activity Prediction](#activity-prediction)
  - [Event Prediction](#event-prediction)
  - [Human Trajectory Prediction](#human-trajectory-prediction)
 
-## Action Recognition In Early Stage
+## Action Prediction In Early Stage
 * **Action Prediction from Videos via Memorizing Hard-to-Predict Samples** [[Paper]](http://www1.ece.neu.edu/~yukong/papers/AAAI2018.pdf)  
   * Y. Kong, S. Gao, B. Sun, Y. Fu, AAAI 2018.
 * **On Encoding Temporal Evolution for Real-time Action Prediction** [[Paper]](https://arxiv.org/ftp/arxiv/papers/1709/1709.07894.pdf)  
@@ -78,7 +78,8 @@ Feel free to send me [email](chinancheng0811@gmail.com) or Pull Request to add l
 
 ## Licenses
 
-[![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
+[![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)  
 
+To the extent possible under law, [Chin-An Cheng](https://chinancheng.github.io/), [Ching-Ju Cheng](https://emc2k21mv2.wixsite.com/mysitehenry) has waived all copyright and related or neighboring rights to this work.
 
 
