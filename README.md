@@ -12,7 +12,7 @@ A paper list of Activity Prediction and related area resources, inspired by [awe
   * Y. Kong, S. Gao, B. Sun, Y. Fu, AAAI 2018.
 * **On Encoding Temporal Evolution for Real-time Action Prediction** [[Paper]](https://arxiv.org/ftp/arxiv/papers/1709/1709.07894.pdf)  
   * F. Rezazadegan, S.Shirazi, M. Baktashmotlagh, L. S. Davis, arXiv 2018.
-* **Predictive Learning: Using Future Representation Learning Variantial Autoencoder for Human Action Prediction**[[Paper]](https://arxiv.org/pdf/1711.09265v2.pdf)    
+* **Predictive Learning: Using Future Representation Learning Variantial Autoencoder for Human Action Prediction** [[Paper]]( https://arxiv.org/pdf/1711.09265v2.pdf)    
   * Y. Runsheng, S. Zhenyu, M. Qiongxiong, Q. Laiyun, arXiv 2017.
 * **Encouraging LSTMs to Anticipate Actions Very Early** [[Paper]](https://arxiv.org/pdf/1703.07023.pdf)
   * M. S. Aliakbarian,  F. Saleh, M. Salzmann, B. Fernando, L. Petersson, L. Andersson, ICCV 2017.
@@ -24,6 +24,8 @@ A paper list of Activity Prediction and related area resources, inspired by [awe
   * Y. Kong, Z. Tao, Y. Fu, CVPR 2017.
 * **RED: Reinforced Encoder-Decoder Networks for Action Anticipation** [[Paper]](https://arxiv.org/pdf/1707.04818.pdf)
   * J. Gao, Z. Yang, R. Nevatia, BMVC 2017.
+* **Anticipating Visual Representations from Unlabeled Video** [[Paper]](https://arxiv.org/pdf/1504.08023.pdf) 
+  * C. Vondrick, H. Pirsiavash, A. Torralba, CVPR 2016.
 * **Learning Activity Progression in LSTMs for Activity Detection and Early Detection** [[Paper]](http://openaccess.thecvf.com/content_cvpr_2016/papers/Ma_Learning_Activity_Progression_CVPR_2016_paper.pdf)
   * S. Ma, L. Sigal, S. Sclaroff, CVPR 2016.
 * **Deep Action- and Context-Aware Sequence Learning for Activity Recognition and Anticipation** [[Paper]](https://arxiv.org/pdf/1611.05520.pdf)
@@ -60,18 +62,23 @@ A paper list of Activity Prediction and related area resources, inspired by [awe
   * A. Jain, H. S. Koppula, B. Raghavan, S. Soh, A. Saxena, ICCV 2015.
   
 ## Human Trajectory Prediction
+* **Human Trajectory Prediction using Spatially aware Deep Attention Models** [[Paper]](https://arxiv.org/pdf/1705.09436.pdf)
+  * D. Varshneya, G. Srinivasaraghavan, arxiv 2017.
+* **Context-Aware Trajectory Prediction** [[Paper]](https://arxiv.org/pdf/1705.02503.pdf)
+  * F. Bartoli, G. Lisanti, L. Ballan, A. D. Bimbo, arxiv 2017.  
+* **Soft + Hardwired Attention: An LSTM Framework for Human Trajectory Prediction and Abnormal Event Detection** [[Paper]](https://arxiv.org/pdf/1702.05552.pdf) 
+  * T. Fernando, S. Denman, S. Sridharan, C. Fookes, arxiv 2017.
 * **Forecasting Interactive Dynamics of Pedestrians with Fictitious Play** [[Paper]](http://openaccess.thecvf.com/content_cvpr_2017/papers/Ma_Forecasting_Interactive_Dynamics_CVPR_2017_paper.pdf)
   * W. C. Ma, D. A. Huang, N. Lee, K. M. Kitani, CVPR 2017.    
 * **Social LSTM: Human Trajectory Prediction in Crowded Spaces** [[Paper]](http://cvgl.stanford.edu/papers/CVPR16_Social_LSTM.pdf)
   * A. Alahi∗, K. Goel*, V. Ramanathan, A. Robicquet, Li Fei-Fei, S. Savarese, CVPR 2016.
 
 ## Contributing
-Feel free to send me [email](chinancheng0811@gmail.com) or pull request to add links. 
+Feel free to send me [email](chinancheng0811@gmail.com) or Pull Request to add links. 
 
 ## Licenses
 
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 
-To the extent possible under law, [Chin-An Cheng](https://chinancheng.github.io/) has waived all copyright and related or neighboring rights to this work.
 
 
