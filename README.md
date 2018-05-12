@@ -38,8 +38,10 @@ A paper list of Activity Prediction and related area resources, inspired by [awe
   * M. S. Ryoo, ICCV 2011.
 
 ## Activity Prediction
+* **When will you do what? - Anticipating Temporal Occurrences of Activities** [[Paper]](https://arxiv.org/pdf/1804.00892.pdf) [[Code]](https://github.com/yabufarha/anticipating-activities)
+  * Y. A. Farha, A. Richard, J. Gall, CVPR 2018.
 * **First-Person Activity Forecasting with Online Inverse Reinforcement Learning** [[Paper]](https://arxiv.org/pdf/1612.07796.pdf) [[Project]](https://www.cs.cmu.edu/~nrhineha/darko.html)
-  * N. Rhinehart, K. M. Kitani,  ICCV 2017.
+  * N. Rhinehart, K. M. Kitani, ICCV 2017.
 * **Joint Prediction of Activity Labels and Starting Times in Untrimmed Videos** [[Paper]](http://openaccess.thecvf.com/content_ICCV_2017/papers/Mahmud_Joint_Prediction_of_ICCV_2017_paper.pdf)
   * T. Mahmud, M. Hasan, A. K. Roy-Chowdhury, ICCV 2017.
 * **Anticipating Daily Intention using On-Wrist Motion Triggered Sensing** [[Paper]](http://openaccess.thecvf.com/content_ICCV_2017/papers/Wu_Anticipating_Daily_Intention_ICCV_2017_paper.pdf) [[Project]](http://aliensunmin.github.io/project/intent-anticipate/)
@@ -54,6 +56,8 @@ A paper list of Activity Prediction and related area resources, inspired by [awe
   * A. Jain, A. Singh, H. S. Koppula, S. Soh, A. Saxena, ICRA 2016.
 
 ## Event Prediction
+* **Anticipating Traffic Accidents with Adaptive Loss and Large-scale Incident DB** [[Paper]](https://arxiv.org/pdf/1804.02675.pdf)
+  * T. Suzuki, H. Kataoka, Y. Aoki, Y. Satoh, CVPR 2018.
 * **Agent-Centric Risk Assessment: Accident Anticipation and Risky Region Localization** [[Paper]](http://openaccess.thecvf.com/content_cvpr_2017/papers/Zeng_Agent-Centric_Risk_Assessment_CVPR_2017_paper.pdf)
   * K. H. Zeng, S. H. Chou, F. H. Chan, J. C. Niebles, M. Sun, CVPR 2017.
 * **Anticipating accidents in dashcam videos** [[Paper]](https://yuxng.github.io/chan_accv16.pdf) [[Code]](https://github.com/smallcorgi/Anticipating-Accidents) [[Project]](https://aliensunmin.github.io/project/dashcam/)
