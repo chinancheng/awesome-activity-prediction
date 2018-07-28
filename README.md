@@ -8,6 +8,11 @@ A paper list of Activity Prediction and related area resources, inspired by [awe
  - [Human Trajectory Prediction](#human-trajectory-prediction)
 
 ## Action Prediction In Early Stage
+* **Human Action Recognition and Prediction:
+A Survey** [[Paper]](https://arxiv.org/pdf/1806.11230v2.pdf)
+  * Y. Kong, Y. Fu, arxiv 2018.
+* **SSNet: Scale Selection Network for Online 3D Action Prediction** [[Paper]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Liu_SSNet_Scale_Selection_CVPR_2018_paper.pdf)
+  * J. Liu, A. Shahroudy, G. Wang, L. Y. Duan, A. C. Kot, CVPR 2018. 
 * **Action Prediction from Videos via Memorizing Hard-to-Predict Samples** [[Paper]](http://www1.ece.neu.edu/~yukong/papers/AAAI2018.pdf)  
   * Y. Kong, S. Gao, B. Sun, Y. Fu, AAAI 2018.
 * **On Encoding Temporal Evolution for Real-time Action Prediction** [[Paper]](https://arxiv.org/ftp/arxiv/papers/1709/1709.07894.pdf)  
@@ -66,6 +71,11 @@ A paper list of Activity Prediction and related area resources, inspired by [awe
   * A. Jain, H. S. Koppula, B. Raghavan, S. Soh, A. Saxena, ICCV 2015.
   
 ## Human Trajectory Prediction
+* **Long-Term On-Board Prediction of People in Traffic Scenes under Uncertainty**[[Paper]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Bhattacharyya_Long-Term_On-Board_Prediction_CVPR_2018_paper.pdf)
+  * A. Bhattacharyya, M. Fritz, B. Schiele, CVPR 2018.
+* **Encoding Crowd Interaction with Deep Neural Network
+for Pedestrian Trajectory Prediction**[[Paper]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Xu_Encoding_Crowd_Interaction_CVPR_2018_paper.pdf)  [[Code]](https://github.com/ShanghaiTechCVDL/CIDNN)
+  * Y. Xu, Z. Piao, S. Gao, CVPR 2018.
 * **Human Trajectory Prediction using Spatially aware Deep Attention Models** [[Paper]](https://arxiv.org/pdf/1705.09436.pdf)
   * D. Varshneya, G. Srinivasaraghavan, arxiv 2017.
 * **Context-Aware Trajectory Prediction** [[Paper]](https://arxiv.org/pdf/1705.02503.pdf)
