@@ -8,6 +8,12 @@ A paper list of Activity Prediction and related area resources, inspired by [awe
  - [Human Trajectory Prediction](#human-trajectory-prediction)
 
 ## Action Prediction In Early Stage
+* **Action Anticipation with RBF Kernelized
+Feature Mapping RNN** [[Paper]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Yuge_Shi_Action_Anticipation_with_ECCV_2018_paper.pdf)
+  * Y. Shi, B. Fernando, R. Hartley, ECCV 2018. 
+* **Part-Activated Deep Reinforcement Learning for
+Action Prediction** [[Paper]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Lei_Chen_Part-Activated_Deep_Reinforcement_ECCV_2018_paper.pdf)
+  * L. Chen, J. Lu, Z. Song, J. Zhou, ECCV 2018.
 * **Temporal Relational Reasoning in Videos** [[Paper]](https://arxiv.org/pdf/1711.08496.pdf) [[Project]](http://relation.csail.mit.edu/) [[Code]](https://github.com/metalbubble/TRN-pytorch)
   * B. Zhou, A. Andonian, A. Oliva, A. Torralba, ECCV 2018.
 * **Human Action Recognition and Prediction:
@@ -45,6 +51,8 @@ A Survey** [[Paper]](https://arxiv.org/pdf/1806.11230v2.pdf)
   * M. S. Ryoo, ICCV 2011.
 
 ## Activity Prediction
+* **Egocentric Activity Prediction via Event Modulated Attention** [[Paper]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Yang_Shen_Egocentric_Activity_Prediction_ECCV_2018_paper.pdf)
+  * Y. Shen*, B. Ni*, Z. Li, N. Zhuang, ECCV 2018.
 * **When will you do what? - Anticipating Temporal Occurrences of Activities** [[Paper]](https://arxiv.org/pdf/1804.00892.pdf) [[Code]](https://github.com/yabufarha/anticipating-activities)
   * Y. A. Farha, A. Richard, J. Gall, CVPR 2018.
 * **First-Person Activity Forecasting with Online Inverse Reinforcement Learning** [[Paper]](https://arxiv.org/pdf/1612.07796.pdf) [[Project]](https://www.cs.cmu.edu/~nrhineha/darko.html)
