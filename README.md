@@ -8,6 +8,8 @@ A paper list of Activity Prediction and related area resources, inspired by [awe
  - [Human Trajectory Prediction](#human-trajectory-prediction)
 
 ## Action Prediction In Early Stage
+* **Temporal Relational Reasoning in Videos** [[Paper]](https://arxiv.org/pdf/1711.08496.pdf) [[Project]](http://relation.csail.mit.edu/) [[Code]](https://github.com/metalbubble/TRN-pytorch)
+  * B. Zhou, A. Andonian, A. Oliva, A. Torralba, ECCV 2018.
 * **Human Action Recognition and Prediction:
 A Survey** [[Paper]](https://arxiv.org/pdf/1806.11230v2.pdf)
   * Y. Kong, Y. Fu, arxiv 2018.
