@@ -33,6 +33,8 @@ A Survey** [[Paper]](https://arxiv.org/pdf/1806.11230v2.pdf)
   * G. Singh, S. Saha, M. Sapienza, P. Torr, F. Cuzzolin, ICCV 2017.
 * **Visual Forecasting by Imitating Dynamics in Natural Sequences** [[Paper]](http://openaccess.thecvf.com/content_ICCV_2017/papers/Zeng_Visual_Forecasting_by_ICCV_2017_paper.pdf)
   * K. H. Zeng, W. B. Shen, D. A. Huang, M. Sun, J. C. Niebles, ICCV 2017.
+* **Binary Coding for Partial Action Analysis with Limited Observation Ratios** [[Paper]](http://openaccess.thecvf.com/content_cvpr_2017/papers/Qin_Binary_Coding_for_CVPR_2017_paper.pdf)
+  * J. Qin, L. Liu, L. Shao, B. Ni, C. Chen, F. Shen, Y. Wang, CVPR 2017.
 * **Deep Sequential Context Networks for Action Prediction** [[Paper]](http://openaccess.thecvf.com/content_cvpr_2017/papers/Kong_Deep_Sequential_Context_CVPR_2017_paper.pdf)
   * Y. Kong, Z. Tao, Y. Fu, CVPR 2017.
 * **RED: Reinforced Encoder-Decoder Networks for Action Anticipation** [[Paper]](https://arxiv.org/pdf/1707.04818.pdf)
