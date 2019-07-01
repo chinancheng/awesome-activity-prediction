@@ -53,6 +53,8 @@ A Survey** [[Paper]](https://arxiv.org/pdf/1806.11230v2.pdf)
   * M. S. Ryoo, ICCV 2011.
 
 ## Activity Prediction
+* **Peeking into the Future: Predicting Future Person Activities and Locations in Videos** [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Liang_Peeking_Into_the_Future_Predicting_Future_Person_Activities_and_Locations_CVPR_2019_paper.pdf)
+  * J. Liang, L. Jiang, J.C. Niebles, A. Hauptmann, L. Fei-Fei, CVPR 2019.
 * **Egocentric Activity Prediction via Event Modulated Attention** [[Paper]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Yang_Shen_Egocentric_Activity_Prediction_ECCV_2018_paper.pdf)
   * Y. Shen*, B. Ni*, Z. Li, N. Zhuang, ECCV 2018.
 * **When will you do what? - Anticipating Temporal Occurrences of Activities** [[Paper]](https://arxiv.org/pdf/1804.00892.pdf) [[Code]](https://github.com/yabufarha/anticipating-activities)
@@ -83,6 +85,14 @@ A Survey** [[Paper]](https://arxiv.org/pdf/1806.11230v2.pdf)
   * A. Jain, H. S. Koppula, B. Raghavan, S. Soh, A. Saxena, ICCV 2015.
   
 ## Human Trajectory Prediction
+* **SR-LSTM: State Refinement for LSTM Towards Pedestrian Trajectory Prediction** [[Paper]](https://arxiv.org/pdf/1903.02793.pdf)
+  * P. Zhang, W. Ouyang, P. Zhang, J. Xue, N. Zheng, CVPR 2019.
+* **Multi-Agent Tensor Fusion for Contextual Trajectory Prediction** [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Sadeghian_SoPhie_An_Attentive_GAN_for_Predicting_Paths_Compliant_to_Social_CVPR_2019_paper.pdf)
+  * T. Zhao, Y. Xu, M. Monfort, W. Choi, C. Baker, Y. Zhao, Y. Wang, Y. Nian Wu, CVPR 2019.
+* **Peeking into the Future: Predicting Future Person Activities and Locations in Videos** [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Liang_Peeking_Into_the_Future_Predicting_Future_Person_Activities_and_Locations_CVPR_2019_paper.pdf)
+  * J. Liang, L. Jiang, J.C. Niebles, A. Hauptmann, L. Fei-Fei, CVPR 2019.
+* **Sophie: An attentive gan for predicting paths compliant to social and physical constraints** [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Sadeghian_SoPhie_An_Attentive_GAN_for_Predicting_Paths_Compliant_to_Social_CVPR_2019_paper.pdf)
+  * A. Sadeghian, V. Kosaraju, A. Sadeghian, N. Hirose, H. Rezatofighi, S. Savarese, CVPR 2019.
 * **Long-Term On-Board Prediction of People in Traffic Scenes under Uncertainty**[[Paper]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Bhattacharyya_Long-Term_On-Board_Prediction_CVPR_2018_paper.pdf)
   * A. Bhattacharyya, M. Fritz, B. Schiele, CVPR 2018.
 * **Encoding Crowd Interaction with Deep Neural Network
