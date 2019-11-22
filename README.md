@@ -53,7 +53,7 @@ A Survey** [[Paper]](https://arxiv.org/pdf/1806.11230v2.pdf)
   * M. S. Ryoo, ICCV 2011.
 
 ## Activity Prediction
-* **Peeking into the Future: Predicting Future Person Activities and Locations in Videos** [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Liang_Peeking_Into_the_Future_Predicting_Future_Person_Activities_and_Locations_CVPR_2019_paper.pdf)
+* **Peeking into the Future: Predicting Future Person Activities and Locations in Videos** [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Liang_Peeking_Into_the_Future_Predicting_Future_Person_Activities_and_Locations_CVPR_2019_paper.pdf) [[Code]](https://github.com/google/next-prediction)
   * J. Liang, L. Jiang, J.C. Niebles, A. Hauptmann, L. Fei-Fei, CVPR 2019.
 * **Egocentric Activity Prediction via Event Modulated Attention** [[Paper]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Yang_Shen_Egocentric_Activity_Prediction_ECCV_2018_paper.pdf)
   * Y. Shen*, B. Ni*, Z. Li, N. Zhuang, ECCV 2018.
